@@ -1,18 +1,18 @@
 {
-  "name": "zotero-plugin-template",
+  "name": "zotero-translate",
   "type": "module",
-  "version": "3.1.0",
-  "description": "Zotero Plugin Template",
+  "version": "0.1.0",
+  "description": "Zotero translate",
   "config": {
-    "addonName": "Zotero Plugin Template",
-    "addonID": "addontemplate@euclpts.com",
-    "addonRef": "addontemplate",
-    "addonInstance": "AddonTemplate",
-    "prefsPrefix": "extensions.zotero.addontemplate"
+    "addonName": "Zotero translate",
+    "addonID": "Zoterotranslate@gmail.com",
+    "addonRef": "Zoterotranslate",
+    "addonInstance": "ZoteroTranslate",
+    "prefsPrefix": "extensions.zotero.ZoteroTranslate"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/windingwind/zotero-plugin-template.git"
+    "url": "git+https://git.boogerboys.top/natsufrank/zotero-translate.git"
   },
   "author": "windingwind",
   "bugs": {
