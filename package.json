@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.boogerboys.top/natsufrank/zotero-translate.git"
+    "url": "git+https://github.com/Natsufrank1229/zotero-translate.git"
   },
   "author": "windingwind",
   "bugs": {
-    "url": "https://github.com/windingwind/zotero-plugin-template/issues"
+    "url": "https://github.com/Natsufrank1229/zotero-translate.git/issues"
   },
-  "homepage": "https://github.com/windingwind/zotero-plugin-template#readme",
+  "homepage": "https://github.com/Natsufrank1229/zotero-translate.git#readme",
   "license": "AGPL-3.0-or-later",
   "scripts": {
     "start": "zotero-plugin serve",

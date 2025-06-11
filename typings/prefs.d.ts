@@ -7,8 +7,48 @@
 declare namespace _ZoteroTypes {
   interface Prefs {
     PluginPrefsMap: {
-      "enable": boolean;
-      "input": string;
+      "enableAuto": boolean;
+      "enableDict": boolean;
+      "enablePopup": boolean;
+      "enableComment": boolean;
+      "annotationTranslationPosition": string;
+      "enableNote": boolean;
+      "enableNoteReplaceMode": boolean;
+      "translateSource": string;
+      "dictSource": string;
+      "sourceLanguage": string;
+      "targetLanguage": string;
+      "fontSize": string;
+      "lineHeight": string;
+      "splitChar": string;
+      "autoFocus": boolean;
+      "rawResultOrder": boolean;
+      "showSidebarEngine": boolean;
+      "showSidebarSettings": boolean;
+      "showSidebarConcat": boolean;
+      "showSidebarLanguage": boolean;
+      "showSidebarRaw": boolean;
+      "showSidebarCopy": boolean;
+      "showItemBoxTitleTranslation": boolean;
+      "showItemBoxAbstractTranslation": boolean;
+      "keepWindowTop": boolean;
+      "keepPopupSize": boolean;
+      "popupWidth": number;
+      "popupHeight": number;
+      "niutransUsername": string;
+      "niutransPassword": string;
+      "niutransDictNo": string;
+      "niutransMemoryNo": string;
+      "niutransDictLibList": string;
+      "niutransMemoryLibList": string;
+      "autoPlay": boolean;
+      "showPlayBtn": boolean;
+      "disabledLanguages": string;
+      "extraEngines": string;
+      "titleColumnMode": string;
+      "gptUrl": string;
+      "gptModel": string;
+      "gptTemperature": string;
     };
   }
 }
